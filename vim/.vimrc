@@ -38,7 +38,8 @@ if has('gui')
 	colorscheme darkblue
 	if has('win32')
 		set guifont=Lucida_Console:h12:cRUSSIAN::
-	else set guifont=Terminnus\ 14
+	else 
+set guifont=Terminnus\ 14
 	endif
 endif
 
